@@ -1,0 +1,10 @@
+.pen:hover{
+cursor: pointer;
+}
+
+.input{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid white;
+}
